@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidDemo\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidDemo\PopupMenu\app\build\intermediates\pre-dexed\debug\classes-d3e1fb8914da16bb2c663e338bda4c20ef5454d2.jar" />
+    </item>
+    <item
+        jar="E:\android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidDemo\PopupMenu\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8b3bca93c7cc968fee5176f7f9f153158333f705.jar" />
+    </item>
+    <item
+        jar="E:\AndroidDemo\PopupMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidDemo\PopupMenu\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-56a9941b1aa38849b27411140083f80043742bcd.jar" />
+    </item>
+
+</items>

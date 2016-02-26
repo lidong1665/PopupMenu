@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/transparent_background_button" android:state_pressed="true"/>
+    <item android:drawable="@color/transparent_background" />
+</selector>
+<!-- From: file:/E:/AndroidDemo/PopupMenu/app/src/main/res/drawable/bg_default_button_selector.xml -->
